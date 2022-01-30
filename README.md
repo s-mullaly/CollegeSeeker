@@ -8,4 +8,4 @@ The code for this project is not available, but the project can be viewed at the
 
 https://collegeseeker.net/
 
-A YouTube tutorial is available at the top of the page and additional information on the analysis done is available at the links at the bottom of the site.
+A YouTube tutorial is available at the top of the page, to the left of the search bar, and additional information on the analysis done is available at the link titled 'About This Project' at the bottom of the page.
